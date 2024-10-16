@@ -14,7 +14,7 @@
 -**Via terminal, rode os seguintes comandos:-**
 git clone https://github.com/EBAC-QE/teste-api-ebac.git
 
--**cd teste-api-ebac-**
+-**cd teste-api-ebac**
 
 
 ## Para instalar as dependencias:
