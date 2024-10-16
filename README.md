@@ -6,7 +6,9 @@
 ### Pré-requisito:
 
 -**Node.js - Você encontra em:** https://nodejs.org/en/
+
 -**Visual Studio Code ou qualquer editor de texto - você encontra em:-** https://code.visualstudio.com/download
+
 -**Git:-** você encontra em: https://git-scm.com/downloads
 
 -**Via terminal, rode os seguintes comandos:-**
