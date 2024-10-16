@@ -1,46 +1,19 @@
-# Testes API - EBAC
-### Exercício para os alunos de Qualidade de software da EBAC 
+## O que Tem Aqui
+- **cypress**: Diretório com os testes automatizados escritos em Cypress.
+- **Jenkinsfile**: Arquivo de configuração para execução dos testes em um pipeline de Jenkins.
+- **cypress.config.js**: Arquivo de configuração do Cypress.
+- **package.json** e **package-lock.json**: Arquivos de configuração das dependências do projeto.
 
-## Clonando e executando em sua máquina
+## O que Você Precisa
+- **Cypress**: Framework para testes automatizados.
+- **Jenkins**: Ferramenta de integração contínua para execução dos testes.
 
-### Pré-requisito:
-
--**Node.js - Você encontra em:** https://nodejs.org/en/
-
--**Visual Studio Code ou qualquer editor de texto - você encontra em:-** https://code.visualstudio.com/download
-
--**Git:-** você encontra em: https://git-scm.com/downloads
-
--**Via terminal, rode os seguintes comandos:-**
-git clone https://github.com/EBAC-QE/teste-api-ebac.git
-
--**cd teste-api-ebac**
-
-
-## Para instalar as dependencias:
-npm install 
-
-
-## Para subir o servidor:
-npm start
-
-## Para executar em moodo Headlesss via console:
-npx cypress run
-
-
-## Para executar via Dashboard:
-npx cypress open 
-
-## Após abrir o dashboard, prossiga com os passos sugerido pelo Cypress.
-
-
-## Bibliotecas de apoio:
-Cypress: Framework de automação: https://cypress.io/
-
-
-## Licença
-Este projeto está sob a MIT License.
-
+## Como Usar
+1. Clone o repositório: `git clone`
+2. Entre na pasta do projeto: `cd nome-do-repositorio`
+3. Instale as dependências: `npm install`
+4. Execute os testes localmente: `npx cypress open`
+5. Para executar no Jenkins, configure o pipeline utilizando o arquivo **Jenkinsfile**.
 
 
 
